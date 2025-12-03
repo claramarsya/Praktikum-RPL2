@@ -1,0 +1,1 @@
+Repository ini berisi file activity dari praktikum Rekayasa Perangkat Lunak 2 selama 7 pertemuan yang berhubungan dengan pemrograman Java.
